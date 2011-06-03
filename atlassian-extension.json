@@ -1,0 +1,11 @@
+{
+	"key": 			"autoupdate-mock",
+	"name":			"Autoupdate Mock",
+	"description":	"Demonstrates the UI for a plugin autoupdate service",
+	"version":		"2",
+	
+	"vendor": {	"name": "Don Brown",
+			     "url": "http://github.com/mrdon/autoupdate-mock",
+		       "email": "mrdon@twdata.org" },
+    "screenshot":   "screenshot.png"
+}
